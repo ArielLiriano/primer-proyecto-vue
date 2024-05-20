@@ -3,10 +3,8 @@
 </template>
 
 <script setup>
-import MainView from './Views/MainView.vue';
+import MainView from './views/MainView.vue';
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
