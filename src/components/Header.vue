@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <h3>La temperatura actual es: <Weather></Weather></h3>
+        <Weather></Weather>
     </div>
 </template>
 <script setup>
